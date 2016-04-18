@@ -1,26 +1,26 @@
 body.page-id-24 .site-header a+a img {
-	height: 410px;
-	background: url('//bendonaldsonsportsmassage.files.wordpress.com/2016/04/ben-donaldson.png') center no-repeat;
-	display: block;
-	-moz-box-sizing: border-box;
-	box-sizing: border-box;
-	width: 100%;
-	padding-left: 100%;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
+  height: 410px;
+  background: url('//bendonaldsonsportsmassage.files.wordpress.com/2016/04/ben-donaldson.png') center no-repeat;
+  display: block;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  padding-left: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 @media only screen and (max-width: 800px) {
-	body.page-id-24 .site-header a+a img {
-		height: 310px;
-	}
+  body.page-id-24 .site-header a+a img {
+    height: 310px;
+  }
 }
 
 @media only screen and (max-width: 400px) {
-	body.page-id-24 .site-header a+a img {
-		height: 210px;
+  body.page-id-24 .site-header a+a img {
+    height: 210px;
 	}
 }
 
@@ -60,7 +60,9 @@ body.page-id-22 .site-header a+a img {
 		height: 160px;
 	}
 }
-/* //bendonaldsonsportsmassage.files.wordpress.com/2016/04/testimonials.png 133 
+
+/* 
+//bendonaldsonsportsmassage.files.wordpress.com/2016/04/testimonials.png 133 
 //bendonaldsonsportsmassage.files.wordpress.com/2016/04/sports-massage.png 9
 //bendonaldsonsportsmassage.files.wordpress.com/2016/04/st-ives-leisure-centre.png 378
 //bendonaldsonsportsmassage.files.wordpress.com/2016/04/prices-payment.png 272
