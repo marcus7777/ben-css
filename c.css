@@ -31,8 +31,12 @@ body.page-id-170 .site-header a+a img {
 body.page-id-352 .site-header a+a img {
   background: url('//bendonaldsonsportsmassage.files.wordpress.com/2016/04/penzance-health-suite.png') center no-repeat
 }
+body.xxx .site-header a+a img {
+  background: url('//bendonaldsonsportsmassage.files.wordpress.com/2016/04/') center no-repeat
+}
 
 @media only screen {
+  body.page-id-227 .site-header a+a img,
   body.page-id-352 .site-header a+a img,
   body.page-id-170 .site-header a+a img,
   body.blog .site-header a+a img,
@@ -48,6 +52,7 @@ body.page-id-352 .site-header a+a img {
 }
 
 @media only screen and (max-width: 800px) {
+  body.page-id-227 .site-header a+a img,
   body.page-id-352 .site-header a+a img,
   body.page-id-170 .site-header a+a img,
   body.blog .site-header a+a img,
@@ -63,6 +68,7 @@ body.page-id-352 .site-header a+a img {
 }
 
 @media only screen and (max-width: 400px) {
+  body.page-id-227 .site-header a+a img,
   body.page-id-352 .site-header a+a img,
   body.page-id-170 .site-header a+a img,
   body.blog .site-header a+a img,
@@ -78,6 +84,7 @@ body.page-id-352 .site-header a+a img {
 }
 
 @media only screen and (max-width: 300px) {
+  body.page-id-227 .site-header a+a img,
   body.page-id-352 .site-header a+a img,
   body.page-id-170 .site-header a+a img,
   body.blog .site-header a+a img,
@@ -92,6 +99,7 @@ body.page-id-352 .site-header a+a img {
   }
 }
 
+body.page-id-227 .site-header a+a img,
 body.page-id-352 .site-header a+a img,
 body.page-id-170 .site-header a+a img,
 body.blog .site-header a+a img,
