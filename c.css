@@ -16,8 +16,23 @@ body.page-id-22 .site-header a+a img {
 body.page-id-24 .site-header a+a img {
   background: url('//bendonaldsonsportsmassage.files.wordpress.com/2016/04/ben-donaldson.png') center no-repeat
 }
+body.page-id-26 .site-header a+a img {
+  background: url('//bendonaldsonsportsmassage.files.wordpress.com/2016/04/qualifications.png') center no-repeat
+}
+body.page-id-227 .site-header a+a img {
+  background: url('//bendonaldsonsportsmassage.files.wordpress.com/2016/04/kinesiology-taping.png') center no-repeat
+}
+body.blog .site-header a+a img {
+  background: url('//bendonaldsonsportsmassage.files.wordpress.com/2016/04/blognews-page.png') center no-repeat
+}
+body.page-id-442 .site-header a+a img {
+  background: url('//bendonaldsonsportsmassage.files.wordpress.com/2016/04/ultrasound.png') center no-repeat
+}
 
 @media only screen {
+  body.page-id-442 .site-header a+a img,
+  body.blog .site-header a+a img,
+  body.page-id-26 .site-header a+a img,
   body.page-id-272 .site-header a+a img,
   body.page-id-378 .site-header a+a img,
   body.page-id-9 .site-header a+a img,
@@ -29,6 +44,9 @@ body.page-id-24 .site-header a+a img {
 }
 
 @media only screen and (max-width: 800px) {
+  body.page-id-442 .site-header a+a img,
+  body.blog .site-header a+a img,
+  body.page-id-26 .site-header a+a img,
   body.page-id-272 .site-header a+a img,
   body.page-id-378 .site-header a+a img,
   body.page-id-9 .site-header a+a img,
@@ -40,6 +58,9 @@ body.page-id-24 .site-header a+a img {
 }
 
 @media only screen and (max-width: 400px) {
+  body.page-id-442 .site-header a+a img,
+  body.blog .site-header a+a img,
+  body.page-id-26 .site-header a+a img,
   body.page-id-272 .site-header a+a img,
   body.page-id-378 .site-header a+a img,
   body.page-id-9 .site-header a+a img,
@@ -51,6 +72,9 @@ body.page-id-24 .site-header a+a img {
 }
 
 @media only screen and (max-width: 300px) {
+  body.page-id-442 .site-header a+a img,
+  body.blog .site-header a+a img,
+  body.page-id-26 .site-header a+a img,
   body.page-id-272 .site-header a+a img,
   body.page-id-378 .site-header a+a img,
   body.page-id-9 .site-header a+a img,
@@ -61,6 +85,9 @@ body.page-id-24 .site-header a+a img {
   }
 }
 
+body.page-id-442 .site-header a+a img,
+body.blog .site-header a+a img,
+body.page-id-26 .site-header a+a img,
 body.page-id-272 .site-header a+a img,
 body.page-id-378 .site-header a+a img,
 body.page-id-9 .site-header a+a img,
