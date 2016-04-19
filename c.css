@@ -29,7 +29,7 @@ body.page-id-133 .site-header a+a img {
   background: url('//bendonaldsonsportsmassage.files.wordpress.com/2016/04/testimonials.png') center no-repeat
 }
 body.page-id-22 .site-header a+a img {
-	background: url('//bendonaldsonsportsmassage.files.wordpress.com/2016/04/contact-page.png') center no-repeat
+  background: url('//bendonaldsonsportsmassage.files.wordpress.com/2016/04/contact-page.png') center no-repeat
 } 
 body.page-id-24 .site-header a+a img {
   background: url('//bendonaldsonsportsmassage.files.wordpress.com/2016/04/ben-donaldson.png') center no-repeat
@@ -40,9 +40,9 @@ body.page-id-24 .site-header a+a img {
   body.page-id-378 .site-header a+a img,
   body.page-id-9 .site-header a+a img,
   body.page-id-133 .site-header a+a img,
-	body.page-id-22 .site-header a+a img, 
+  body.page-id-22 .site-header a+a img, 
   body.page-id-24 .site-header a+a img {
-    height: 310px;
+    height: 310px
   }
 }
 
@@ -51,10 +51,10 @@ body.page-id-24 .site-header a+a img {
   body.page-id-378 .site-header a+a img,
   body.page-id-9 .site-header a+a img,
   body.page-id-133 .site-header a+a img,
-	body.page-id-22 .site-header a+a img, 
+  body.page-id-22 .site-header a+a img, 
   body.page-id-24 .site-header a+a img {
-    height: 210px;
-	}
+    height: 210px
+  }
 }
 
 @media only screen and (max-width: 300px) {
@@ -62,8 +62,8 @@ body.page-id-24 .site-header a+a img {
   body.page-id-378 .site-header a+a img,
   body.page-id-9 .site-header a+a img,
   body.page-id-133 .site-header a+a img,
-	body.page-id-22 .site-header a+a img, 
-	body.page-id-24 .site-header a+a img {
-		height: 160px;
-	}
+  body.page-id-22 .site-header a+a img, 
+  body.page-id-24 .site-header a+a img {
+    height: 160px
+  }
 }
